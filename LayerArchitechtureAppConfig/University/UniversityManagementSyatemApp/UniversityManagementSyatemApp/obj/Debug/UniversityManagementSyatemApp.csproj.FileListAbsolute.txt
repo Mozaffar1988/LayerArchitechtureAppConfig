@@ -1,0 +1,9 @@
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\bin\Debug\UniversityManagementSyatemApp.exe.config
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\bin\Debug\UniversityManagementSyatemApp.exe
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\bin\Debug\UniversityManagementSyatemApp.pdb
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.csprojResolveAssemblyReference.cache
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.StudentInfoUI.resources
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.Properties.Resources.resources
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.exe
+D:\UIU\Basis Home Work\UniversityManagementSyatemApp\UniversityManagementSyatemApp\obj\Debug\UniversityManagementSyatemApp.pdb

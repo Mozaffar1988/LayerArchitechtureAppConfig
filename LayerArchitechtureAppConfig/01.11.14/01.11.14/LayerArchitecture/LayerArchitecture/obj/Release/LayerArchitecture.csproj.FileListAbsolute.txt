@@ -1,0 +1,10 @@
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Release\LayerArchitecture.exe.config
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Release\LayerArchitecture.exe
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Release\LayerArchitecture.pdb
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.UI.DepartmentUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.MainUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.Properties.Resources.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.UI.StudentUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.csproj.GenerateResource.Cache
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.exe
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Release\LayerArchitecture.pdb

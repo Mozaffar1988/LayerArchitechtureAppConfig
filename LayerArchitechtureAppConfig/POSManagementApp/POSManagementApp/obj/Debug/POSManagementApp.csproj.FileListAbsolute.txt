@@ -1,0 +1,17 @@
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe.config
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.pdb
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.Properties.Resources.resources
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.PosUI.resources
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.exe
+D:\UIU\Basis Home Work\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.pdb
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe.config
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.exe
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.pdb
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.pdb
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.Properties.Resources.resources
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.PosUI.resources
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.csprojResolveAssemblyReference.cache

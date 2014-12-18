@@ -1,0 +1,27 @@
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepertmentUI.resources
+H:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+H:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+H:\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepertmentUI.resources
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+H:\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe.config
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.exe
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.pdb
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.exe
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\bin\Debug\DepartmentApp.pdb
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csprojResolveAssemblyReference.cache
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.DepertmentUI.resources
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.Properties.Resources.resources
+D:\UIU\Basis Home Work\University\DepartmentApp\DepartmentApp\obj\Debug\DepartmentApp.csproj.GenerateResource.Cache

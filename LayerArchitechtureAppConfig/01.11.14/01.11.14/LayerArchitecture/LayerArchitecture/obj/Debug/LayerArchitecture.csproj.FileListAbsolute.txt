@@ -1,0 +1,41 @@
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.DepartmentUI.resources
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.MainUI.resources
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.Properties.Resources.resources
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.StudentUI.resources
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.pdb
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
+D:\UIU\Basis Home Work\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.pdb
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.DepartmentUI.resources
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.MainUI.resources
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.Properties.Resources.resources
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.StudentUI.resources
+C:\Users\BITM-301-PC\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.csproj.GenerateResource.Cache
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.DepartmentUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.MainUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.Properties.Resources.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.UI.StudentUI.resources
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.csproj.GenerateResource.Cache
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.pdb
+C:\Users\Mozaffar\Desktop\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.csprojResolveAssemblyReference.cache
+H:\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+H:\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+H:\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
+H:\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+H:\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+H:\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\bin\Debug\LayerArchitecture.exe.config
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.exe
+D:\UIU\Basis Home Work\LayerArchitechtureAppConfig\01.11.14\01.11.14\LayerArchitecture\LayerArchitecture\obj\Debug\LayerArchitecture.pdb
